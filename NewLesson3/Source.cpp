@@ -6,4 +6,6 @@ int main()
 	cout << "Hello world" << endl;
 	int b = 5;
 	cout << b;
+	int a = 6;
+	cout << a;
 }
