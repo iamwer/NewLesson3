@@ -7,5 +7,7 @@ int main()
 	int b = 5;
 	cout << b;
 	int a = 6;
-	cout << a;
+	cout << a << endl;
+	int c = a + b;
+	cout << c << endl;
 }
