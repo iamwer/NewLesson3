@@ -12,4 +12,6 @@ int main()
 	cout << c << endl;
 	const int g = 9.8;
 	cout << g << endl;
+	const double pi = 3.14;
+	cout << pi << endl;
 }
