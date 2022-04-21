@@ -10,4 +10,6 @@ int main()
 	cout << a << endl;
 	int c = a + b;
 	cout << c << endl;
+	const int g = 9.8;
+	cout << g << endl;
 }
